@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoL&show_icons=true&theme=outrun)](https://github.com/FilippoL/github-readme-stats)
+
 <!--
 **FilippoL/FilippoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
